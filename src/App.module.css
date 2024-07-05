@@ -1,0 +1,15 @@
+.vStack {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.hStack {
+  display: flex;
+  flex-direction: row;
+  gap: 4rem;
+  justify-content: space-around;
+  align-items: start;
+}
